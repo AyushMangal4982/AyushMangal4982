@@ -33,16 +33,12 @@
 
 <!-- <img alt="TF" src="https://img.shields.io/badge/MONGODB-grey?style=for-the-badge&logo=MONGODB&logoColor=Green"/> 
 <img alt="TF" src="https://img.shields.io/badge/EXPRESS-grey?style=for-the-badge&logo=EXPRESS&logoColor=Green"/>  -->
-<img alt="TF" src="https://img.shields.io/badge/REACT-grey?style=for-the-badge&logo=REACT&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/NODE_JS-grey?style=for-the-badge&logo=nodedotjs&logoColor=Green"/><!-- <img alt="TF" src="https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=amazonaws&logoColor=Yellow"/> --><img alt="TF" src="https://img.shields.io/badge/FIREBASE-grey?style=for-the-badge&logo=FIREBASE&logoColor=Yellow"/>
-<img alt="TF" src="https://img.shields.io/badge/BOOTSTRAP-grey?style=for-the-badge&logo=BOOTSTRAP&logoColor=Purple"/>
-<img alt="TF" src="https://img.shields.io/badge/WORDPRESS-grey?style=for-the-badge&logo=WORDPRESS&logoColor=Purple"/>
+<img alt="TF" src="https://img.shields.io/badge/REACT-grey?style=for-the-badge&logo=REACT&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/NODE_JS-grey?style=for-the-badge&logo=nodedotjs&logoColor=Green"/> <!-- <img alt="TF" src="https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=amazonaws&logoColor=Yellow"/> --><img alt="TF" src="https://img.shields.io/badge/FIREBASE-grey?style=for-the-badge&logo=FIREBASE&logoColor=Yellow"/> <img alt="TF" src="https://img.shields.io/badge/BOOTSTRAP-grey?style=for-the-badge&logo=BOOTSTRAP&logoColor=Purple"/> <img alt="TF" src="https://img.shields.io/badge/WORDPRESS-grey?style=for-the-badge&logo=WORDPRESS&logoColor=Purple"/>
 
 <h4><strong>LANGUAGES</strong></h4>
 
 <!-- <img alt="TF" src="https://img.shields.io/badge/DART-grey?style=for-the-badge&logo=dart&logoColor=blue"/>  -->
-<img alt="TF" src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c&logoColor=blue"/> 
-<img alt="TF" src="https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=cplusplus&logoColor=Green"/> 
-<img alt="TF" src="https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript&logoColor=Green"/> 
+<img alt="TF" src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c&logoColor=blue"/> <img alt="TF" src="https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=cplusplus&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript&logoColor=Green"/> 
 
 
 <hr>
@@ -51,11 +47,8 @@
 <h1 align="center">Some of my Projects!</h1>
 <br>
 <p align="left">
-  <a href="https://github.com/AyushMangal4982/disney-plus-clone.git"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AyushMangal4982&repo=disney-plus-clone&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-    <a href="https://github.com/AyushMangal4982/tesla-clone.git"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AyushMangal4982&repo=tesla-clone&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-        <a href="https://github.com/AyushMangal4982/whatsapp-clone.git"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AyushMangal4982&repo=whatsapp-clone&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-  <a href="https://github.com/AyushMangal4982/Tic-Tac-Toe"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AyushMangal4982&repo=Tic-Tac-Toe&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-    <a href="https://github.com/AyushMangal4982/Spotify-clone"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AyushMangal4982&repo=Spotify-clone&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+  <a href="https://github.com/AyushMangal4982/disney-plus-clone.git"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AyushMangal4982&repo=disney-plus-clone&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a> <a href="https://github.com/AyushMangal4982/tesla-clone.git"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AyushMangal4982&repo=tesla-clone&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a> <a href="https://github.com/AyushMangal4982/whatsapp-clone.git"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AyushMangal4982&repo=whatsapp-clone&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+  <a href="https://github.com/AyushMangal4982/Tic-Tac-Toe"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AyushMangal4982&repo=Tic-Tac-Toe&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a> <a href="https://github.com/AyushMangal4982/Spotify-clone"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AyushMangal4982&repo=Spotify-clone&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 
 <hr>
 
