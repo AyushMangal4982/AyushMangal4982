@@ -33,8 +33,7 @@
 
 <!-- <img alt="TF" src="https://img.shields.io/badge/MONGODB-grey?style=for-the-badge&logo=MONGODB&logoColor=Green"/> 
 <img alt="TF" src="https://img.shields.io/badge/EXPRESS-grey?style=for-the-badge&logo=EXPRESS&logoColor=Green"/>  -->
-<img alt="TF" src="https://img.shields.io/badge/REACT-grey?style=for-the-badge&logo=REACT&logoColor=Green"/> 
-<img alt="TF" src="https://img.shields.io/badge/NODE_JS-grey?style=for-the-badge&logo=nodedotjs&logoColor=Green"/> 
+<img alt="TF" src="https://img.shields.io/badge/REACT-grey?style=for-the-badge&logo=REACT&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/NODE_JS-grey?style=for-the-badge&logo=nodedotjs&logoColor=Green"/> 
 <!-- <img alt="TF" src="https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=amazonaws&logoColor=Yellow"/> -->
 <img alt="TF" src="https://img.shields.io/badge/FIREBASE-grey?style=for-the-badge&logo=FIREBASE&logoColor=Yellow"/>
 <img alt="TF" src="https://img.shields.io/badge/BOOTSTRAP-grey?style=for-the-badge&logo=BOOTSTRAP&logoColor=Purple"/>
